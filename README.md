@@ -1,8 +1,10 @@
-# rkgrid
+# Rakuten Grid
 
 ##Simple Syntax
 - All you need to remember is row, column, content.
 
+
+```bash
 <div class="rk-container">
     <div class="rk-row">
         <div class="col-m-12 col-d-6">
@@ -14,3 +16,7 @@
         </div>
     </div>
 </div>
+
+```
+
+
