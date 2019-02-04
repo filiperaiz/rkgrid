@@ -3,18 +3,20 @@ $screen-desktop: 980px;
 $screen-mobile: 979px;
 
 .rk-container {
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  position: relative;
+  width: 100% !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
   margin-right: auto;
   margin-left: auto;
 }
 
 .rk-container {
-  max-width: $screen-container;
+  max-width: $screen-container !important;
 }
 
 .rk-row {
+  position: relative;
   box-sizing: border-box;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -45,6 +47,7 @@ $screen-mobile: 979px;
 .col-10,
 .col-11,
 .col-12 {
+  position: relative;
   box-sizing: border-box;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
