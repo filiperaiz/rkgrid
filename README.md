@@ -1,8 +1,6 @@
 # Rakuten Grid
 
 ##Simple Syntax
-- All you need to remember is row, column, content.
-
 
 ```bash
 <div class="rk-container">
