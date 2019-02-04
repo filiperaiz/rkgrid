@@ -1,6 +1,6 @@
 # Rakuten Grid
 
-## Simple Syntax
+### Simple Syntax
 
 ```bash
 <div class="rk-container">
