@@ -2,9 +2,9 @@
 
 
 ## Sizes Default
-$screen-container: 1200px;
-$screen-desktop: 980px;
-$screen-mobile: 979px;
+##### $screen-container: 1200px;
+##### $screen-desktop: 980px;
+##### $screen-mobile: 979px;
 
 
 ## Simple Syntax
