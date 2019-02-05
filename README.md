@@ -2,6 +2,13 @@
 
 ## Simple Syntax
 
+### col-d-
+Usage for desktop
+
+### col-m-
+Usage for mobile
+
+
 ```bash
 <div class="rk-container">
     <div class="rk-row">
