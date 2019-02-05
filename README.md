@@ -18,7 +18,7 @@ Usage for mobile
 
 ```bash
 <div class="rk-container">
-    <div class="rk-row">
+    <div class="rk-rk-row">
         <div class="col-m-12 col-d-6">
             Your code here
         </div>
@@ -39,7 +39,7 @@ Usage for mobile
 ### .rk-start
 
 ```bash
-<div class="row rk-start">
+<div class="rk-row rk-start">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -49,7 +49,7 @@ Usage for mobile
 ### .rk-center
 
 ```bash
-<div class="row rk-center">
+<div class="rk-row rk-center">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -59,7 +59,7 @@ Usage for mobile
 ### .rk-end
 
 ```bash
-<div class="row rk-end">
+<div class="rk-row rk-end">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -70,7 +70,7 @@ Usage for mobile
 
 ### .rk-top
 ```bash
-<div class="row rk-top">
+<div class="rk-row rk-top">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -79,7 +79,7 @@ Usage for mobile
 
 ### .rk-middle
 ```bash
-<div class="row rk-middle">
+<div class="rk-row rk-middle">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -88,7 +88,7 @@ Usage for mobile
 
 ### .rk-bottom
 ```bash
-<div class="row rk-bottom">
+<div class="rk-row rk-bottom">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -99,7 +99,7 @@ Usage for mobile
 
 ### .rk-around
 ```bash
-<div class="row rk-around">
+<div class="rk-row rk-around">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
@@ -115,7 +115,7 @@ Usage for mobile
 
 ### .rk-between
 ```bash
-<div class="row rk-between">
+<div class="rk-row rk-between">
     <div class="col-m-12 col-d-6">
          Your code here
     </div>
