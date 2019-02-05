@@ -18,7 +18,7 @@ Usage for mobile
 
 ```bash
 <div class="rk-container">
-    <div class="rk-rk-row">
+    <div class="rk-row">
         <div class="col-m-12 col-d-6">
             Your code here
         </div>
