@@ -127,3 +127,36 @@ Usage for mobile
     </div>
 </div>
 ```
+
+
+## Reordering
+
+### .rk-first
+```bash
+<div class="rk-row rk-between">
+    <div class="col-m-12 col-d-6">
+         Your code here
+    </div>
+    <div class="col-m-12 col-d-6">
+         Your code here
+    </div>
+    <div class="col-m-12 col-d-6 rk-d-first">
+         Your code here
+    </div>
+</div>
+```
+
+### .rk-last
+```bash
+<div class="rk-row rk-between">
+    <div class="col-m-12 col-d-6 rk-d-last">
+         Your code here
+    </div>
+    <div class="col-m-12 col-d-6">
+         Your code here
+    </div>
+    <div class="col-m-12 col-d-6">
+         Your code here
+    </div>
+</div>
+```
