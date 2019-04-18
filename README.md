@@ -1,4 +1,4 @@
-# Rakuten Grid
+# Grid
 
 
 ## Sizes Default
